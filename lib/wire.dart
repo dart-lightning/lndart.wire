@@ -1,7 +1,7 @@
 /// Support for doing something awesome.
 ///
 /// More dartdocs go here.
-library lndart;
+library wire;
 
 export 'src/wire_base.dart';
 
