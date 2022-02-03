@@ -1,7 +1,7 @@
-name: lndart
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
-# homepage: https://www.example.com
+name: wire
+description: A implementation of the foundamentals type around the lightning network spec aka TLV format.
+version: 0.0.1
+homepage: https://github.com/dart-lightning/lndart.wire
 
 environment:
   sdk: '>=2.15.1 <3.0.0'
